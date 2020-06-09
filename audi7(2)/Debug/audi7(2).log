@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Кирилл\source\repos\audi7(2)\audi7(2)\main.c(13,12): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  audi7(2).vcxproj -> C:\Users\Кирилл\source\repos\audi7(2)\Debug\audi7(2).exe
